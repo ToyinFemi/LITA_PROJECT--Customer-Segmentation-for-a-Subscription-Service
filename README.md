@@ -102,4 +102,38 @@ group by Region
 
 ![SQL 2 1](https://github.com/user-attachments/assets/87f5c75e-ffa6-470c-9daf-19afe2338a25)
 
+#### 2.	Most popular subscription type by the number of customers.
+
+```SQL
+select top 1 COUNT(customerid) as NumberofSubscribers, SubscriptionType from [dbo].[Capstone Customer Data]
+group by SubscriptionType
+```
+
+![SQL 2 2](https://github.com/user-attachments/assets/095304d8-eadf-4aa8-b78c-7484361f6ae1)
+
+
+#### 3. Customers who canceled their subscription within 6 months.
+
+```SQL
+	select customername from [dbo].[Capstone Customer Data]
+		      where cancelationcount>0
+			   and subduration_month <=6
+```
+
+![SQL 2 3](https://github.com/user-attachments/assets/3bae0f28-ec48-41fc-bc02-5b163dc11968)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
