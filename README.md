@@ -174,6 +174,52 @@ group by region
 ```
 
 ![SQL2 8](https://github.com/user-attachments/assets/93e1b110-5706-46f5-b318-07f1b772eeef)
+---
+
+### Data Analysis, Visualization, and Inferences (Power BI)
+---
+This includes all the Visuals made using Power BI.
+
+![PBI 2 1](https://github.com/user-attachments/assets/f3de5b02-0ad5-4ff8-8b37-b7adf106aa2f)
+
+![PBI 2 2](https://github.com/user-attachments/assets/7d2139dd-e24e-420a-8e3d-35d28e589055)
+
+![PBI 2 3](https://github.com/user-attachments/assets/0ff37539-8a48-4b66-acd4-099c52746866)
+
+![PBI 2 4](https://github.com/user-attachments/assets/1511d9ed-e3bd-47ec-9c44-b7037c8a0cb6)
+
+![PBI 2 5](https://github.com/user-attachments/assets/15bdf572-c85c-4f01-a8fc-43d8fc5ae4b5)
+
+![PBI 2 6](https://github.com/user-attachments/assets/23c20294-6609-42bf-aa98-958fc822d4ca)
+
+![PBI 2 7](https://github.com/user-attachments/assets/6fe1ffcd-3bd2-4ea9-a0c8-814d553ea47e)
+
+![PBI 2 8](https://github.com/user-attachments/assets/f57d5fa7-afac-4f0e-8c5f-d7661487bf01)
+
+![PBI 2 9](https://github.com/user-attachments/assets/207e2982-5e85-4d75-b954-2dff1182231d)
+
+![PBI 2 10](https://github.com/user-attachments/assets/ec8e6814-a8a4-4b52-83f9-12510d958f64)
+
+![PBI 2 11](https://github.com/user-attachments/assets/910f7fe4-173f-4262-9796-56f9eae7ccbb)
+
+![PBI 2 12](https://github.com/user-attachments/assets/9f318bb8-84a9-4cc8-9633-1bd977c445ad)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
