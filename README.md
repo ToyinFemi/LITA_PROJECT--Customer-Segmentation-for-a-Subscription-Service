@@ -84,4 +84,6 @@ This includes all the pivot tables made using Microsoft Excel.
 
 ![x 2 7](https://github.com/user-attachments/assets/c81a440a-7e0e-4fdd-a701-b9ee5f33e172)
 
+#### 3.	 Most popular subscription types.
 
+![x 2 8](https://github.com/user-attachments/assets/ed447588-7ed9-4357-b8be-d4a09e00745c)
