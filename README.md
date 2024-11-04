@@ -65,7 +65,7 @@ The following actions were performed to clean and prepare the data:
 ---
 This includes all the pivot tables made using Microsoft Excel.
 #### 1.	Subscription Trend.
-
+---
 ![X 2 1](https://github.com/user-attachments/assets/f0aa2a83-3c01-4bb0-961e-116d650e4463)
 
 ![X 2 2](https://github.com/user-attachments/assets/896f09e6-6ec5-4612-b60a-c76dea7ab84c)
@@ -77,4 +77,11 @@ This includes all the pivot tables made using Microsoft Excel.
 ![X 2 5](https://github.com/user-attachments/assets/678b84c0-eb77-474a-a321-e05a12d6701a)
 
 ![X 2 6](https://github.com/user-attachments/assets/173925d4-98c4-4427-99aa-d779367f2042)
+
+#### 2.	Average subscription duration.
+
+![X 2 4](https://github.com/user-attachments/assets/b46b1474-3dfe-4655-961b-f9b5cab3b17d)
+
+![x 2 7](https://github.com/user-attachments/assets/c81a440a-7e0e-4fdd-a701-b9ee5f33e172)
+
 
