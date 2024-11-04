@@ -87,3 +87,19 @@ This includes all the pivot tables made using Microsoft Excel.
 #### 3.	 Most popular subscription types.
 
 ![x 2 8](https://github.com/user-attachments/assets/ed447588-7ed9-4357-b8be-d4a09e00745c)
+------
+
+### Data Analysis, Visualization, and Inferences (SQL)
+---
+This includes the lines of queries used while analyzing the data on SQL, and their outputs.
+
+#### 1.	Total number of customers from each region.
+
+```SQL
+SELECT COUNT(customerid) AS CustomerCountPerRegion, region from [dbo].[Capstone Customer Data]
+group by Region
+```
+
+![SQL 2 1](https://github.com/user-attachments/assets/87f5c75e-ffa6-470c-9daf-19afe2338a25)
+
+
