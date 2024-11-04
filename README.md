@@ -145,16 +145,35 @@ select customername from [dbo].[Capstone Customer Data]
 ![SQL 2 5](https://github.com/user-attachments/assets/2a54cbb5-d9f5-4243-8a36-4b228be9724b)
 
 
+#### 6. Total revenue by subscription type.
+
+```SQL
+select sum(revenue) as TotalRevenue,  [SubscriptionType]   from [dbo].[Capstone Customer Data]
+		   group by [SubscriptionType]
+```
+
+![SQL 2 6](https://github.com/user-attachments/assets/fbe21e42-2594-4d5a-a9f1-bcc378955782)
 
 
+#### 7. Top 3 regions by subscription cancellations
+
+```SQL
+select  TOP 3  SUM(cancelationcount) as SubCancellations,
+region from [dbo].[Capstone Customer Data]
+group by region
+```
+
+![sql 2 7](https://github.com/user-attachments/assets/184d0b3d-b250-424f-aba0-93051d4b2fd3)
 
 
+#### 8.  Total number of active and canceled subscriptions.
 
+```SQL
+ select count(Canceled) as TotalNumberofActiveandCanceledSub
+	     from [dbo].[Capstone Customer Data]
+```
 
-
-
-
-
+![SQL2 8](https://github.com/user-attachments/assets/93e1b110-5706-46f5-b318-07f1b772eeef)
 
 
 
