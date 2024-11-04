@@ -123,6 +123,35 @@ group by SubscriptionType
 ![SQL 2 3](https://github.com/user-attachments/assets/3bae0f28-ec48-41fc-bc02-5b163dc11968)
 
 
+#### 4. Average subscription duration for all customers.
+
+```SQL
+select AVG([SubDuration_Month]) 
+	    as MonthlyAverageSubDuration
+	from [dbo].[Capstone Customer Data]
+```
+
+![SQL 2 4](https://github.com/user-attachments/assets/8f4bee73-2575-4493-b999-20e3f10aaafa)
+
+
+#### 5. Customers with subscriptions longer than 12 months.
+
+```SQL
+select customername from [dbo].[Capstone Customer Data]
+		      where cancelationcount>0
+			   and subduration_month >12
+```
+
+![SQL 2 5](https://github.com/user-attachments/assets/2a54cbb5-d9f5-4243-8a36-4b228be9724b)
+
+
+
+
+
+
+
+
+
 
 
 
