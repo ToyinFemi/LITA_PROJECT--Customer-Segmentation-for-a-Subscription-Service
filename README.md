@@ -2,6 +2,20 @@
 This is a documentation of data validation, cleaning, querying, transformation, and visualization I carried out while working on the Customer Data of  Ladies in Tech Africa's final project.  
 ## Topic:  Customer Segmentation and Trend.
 ---
+
+[Project Overview](#project-overview)
+
+[Data Collected](#data-collected)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and Preparation](#data-cleaning-and-preparation)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Visualization Visualization-and-Inferences](#data-visualization-and-inferences)
+
+
 ### Overview
 ---
 This analysis involves analyzing customer data for a subscription service to identify segments and trends. The analysis is aimed at understanding customer behavior, tracking subscription types, and identifying key trends in cancellations and renewals.
