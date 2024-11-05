@@ -16,7 +16,7 @@ This is a documentation of data validation, cleaning, querying, transformation, 
 [Data Visualization Visualization-and-Inferences](#data-visualization-and-inferences)
 
 
-### Overview
+### Project Overview
 ---
 This analysis involves analyzing customer data for a subscription service to identify segments and trends. The analysis is aimed at understanding customer behavior, tracking subscription types, and identifying key trends in cancellations and renewals.
 ### Data Collected
