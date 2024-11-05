@@ -77,7 +77,7 @@ The following actions were performed to clean and prepare the data:
 - Key customer segments and trends. 
 - Cancellation and subscription trends. 
 
-### Data Analysis, Visualization, and Inferences (Microsoft Excel)
+### Data Visualization, and Inferences (Microsoft Excel)
 ---
 This includes all the pivot tables made using Microsoft Excel.
 #### 1.	Subscription Trend.
