@@ -13,7 +13,9 @@ This is a documentation of data validation, cleaning, querying, transformation, 
 
 [Exploratory Data Analysis](#exploratory-data-analysis)
 
-[Data Visualization Visualization-and-Inferences](#data-visualization-and-inferences)
+[Data Visualization](#data-visualization)
+
+[Inferences](#inferences)
 
 
 ### Project Overview
@@ -217,8 +219,8 @@ This includes all the Visuals made using Power BI.
 ![PBI 2 11](https://github.com/user-attachments/assets/910f7fe4-173f-4262-9796-56f9eae7ccbb)
 
 ![PBI 2 12](https://github.com/user-attachments/assets/9f318bb8-84a9-4cc8-9633-1bd977c445ad)
-
-
+---
+### Inferences
 
 
 
