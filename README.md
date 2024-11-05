@@ -221,6 +221,26 @@ This includes all the Visuals made using Power BI.
 ![PBI 2 12](https://github.com/user-attachments/assets/9f318bb8-84a9-4cc8-9633-1bd977c445ad)
 ---
 ### Inferences
+- #### Subscription Trend: 
+Out of 33787 subscribers, 50.08% use the basic plan, 25% use the premium plan, 24.92% use the standard plan. 
+A total revenue of 67,540,175 was made from all subscription types. The highest selling subscription is basic, followed by premium and standard respectively. Basic subscription made 50.01% of the revenue, premium subscription, 25.02%, and standard, 24.97%.  The average subscription duration is 12 months. 
+Basic subscription plan having the highest number of subscribers could be as a result of its affordability. 
+- #### Renewal and cancelation trend:
+Out of 33787 subscribers, 55.09% renewed their plan, while 44.9% canceled. We have more subscribers renewing than canceling.
+
+Basic:   70.05% of subscribers of the basic plan renewed their subscription, while 29.95% canceled. 
+
+Premium: 40.04% of subscribers of the premium plan renewed their subscription, while 59.96% canceled.
+
+Standard: 40.1%% of subscribers of the standard plan renewed their subscription, while 59.9% canceled.
+
+This could be as a result of the affordability of the basic subscription plan. 
+- #### Regional Performance:
+The total amount generated from all the regions is 67,540,175. The East region recorded the highest number of sales, followed by South, West and North regions respectively. The East region recorded  25.11% of the total sales, South region, 25.02 %, West region, 24.97%, West, 24.9%. 
+Out of 33787 subscribers, 25.12% are from the North, 25% from the South, 24.96% from the North, and 24.92% from the West. 
+- #### Yearly Sales Trend:
+In the years 2022 and 2032, total revenue of 67,540,175  was made, 60.1% was generated in 2022, and 39.9% was generated in 2023. 
+
 
 
 
