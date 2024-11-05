@@ -13,7 +13,7 @@ This is a documentation of data validation, cleaning, querying, transformation, 
 
 [Exploratory Data Analysis](#exploratory-data-analysis)
 
-[Data Visualization](#data-visualization)
+[Data Analysis and Visualization](#data-analysis-and-visualization)
 
 [Inferences](#inferences)
 
@@ -77,7 +77,8 @@ The following actions were performed to clean and prepare the data:
 - Key customer segments and trends. 
 - Cancellation and subscription trends. 
 
-### Data Visualization, and Inferences (Microsoft Excel)
+### Data Analysis and Visualization
+(Microsoft Excel)
 ---
 This includes all the pivot tables made using Microsoft Excel.
 #### 1.	Subscription Trend.
@@ -105,7 +106,8 @@ This includes all the pivot tables made using Microsoft Excel.
 ![x 2 8](https://github.com/user-attachments/assets/ed447588-7ed9-4357-b8be-d4a09e00745c)
 ------
 
-### Data Analysis, Visualization, and Inferences (SQL)
+### Data Analysis and Visualization
+(SQL)
 ---
 This includes the lines of queries used while analyzing the data on SQL, and their outputs.
 
@@ -192,7 +194,8 @@ group by region
 ![SQL2 8](https://github.com/user-attachments/assets/93e1b110-5706-46f5-b318-07f1b772eeef)
 ---
 
-### Data Analysis, Visualization, and Inferences (Power BI)
+### Data Analysis and Visualization
+(Power BI)
 ---
 This includes all the Visuals made using Power BI.
 
